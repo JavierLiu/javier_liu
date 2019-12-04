@@ -33,7 +33,7 @@
 
 ### 专利成果
 1. **软件著作权**
-   - 南京工程学院企业微信校园服务平台，登记号：，2019.11，1/2。
+   - 南京工程学院企业微信校园服务平台，登记号：2019SR1200737，2019.11，1/2。
    - WiFi密码大师软件，登记号：2018SR337681，2018.5，主要完成人。
    - [小圆椒WiFi测速大师软件](https://sj.qq.com/myapp/detail.htm?apkName=com.xiaonanjiao.speedtest)，登记号：2018SR337674，2018.5，主要完成人。
    - [小南椒防蹭网大师软件](https://sj.qq.com/myapp/detail.htm?apkName=com.fcwds.wifiprotect)，登记号：2018SR249035，2018.4，主要完成人。
